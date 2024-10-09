@@ -1,6 +1,8 @@
+# Template End2End project
 
+# How to run?
 
-## Step
+## Step:
 ```bash
 conda create -n mlprj python=3.11 -y 
 ```
